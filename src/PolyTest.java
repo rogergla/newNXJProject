@@ -13,7 +13,7 @@ import lejos.robotics.navigation.DifferentialPilot;
 public class PolyTest 
 { 
 /**
-   * Constructs a the robot and drives it through the project specificatioins
+   * Constructs a the robot and drives it through the project specifications
    * @param aArg 
    */
     public static void main(String[] aArg) 
